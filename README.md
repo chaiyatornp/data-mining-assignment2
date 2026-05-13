@@ -1,6 +1,6 @@
-# Assignment 2 COMP527 - University of Liverpool
+# Compaing Unsupervised Algorithms
 
-This is an assignment from COMP527, University of Liverpool. It is about implementing unsupervised algorithms compared with KMean, KMean++, Bisecting KMean, and KMean Synthetic algorithms, which were implemented from scratch, and computing silhouette values without using third-party packages.
+This project is one of the assignment of COMP527, University of Liverpool. It is about compaing unsupervised algorithms between KMean, KMean++, Bisecting KMean, and KMean Synthetic algorithms, which were implemented from scartch by compaing silhouette values without using any third party packages.
 
 ## Installation
 Use the package manager pip to install 
